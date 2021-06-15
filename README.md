@@ -10,6 +10,7 @@ A demo of different types of lights available in Unity.
 * Emissive Materials
 * Ambient Light
 
+# Demo
 ## Day/Night Cycle
 ![DayNight GIF](https://user-images.githubusercontent.com/51228298/121896605-55d4a900-ccd6-11eb-9226-26a6ea4b7757.gif)
 
